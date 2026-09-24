@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Wender Lopes — Do processo à interface</title>
+  <desc id="desc">Banner grafite com tipografia clara, detalhes verde-menta e um desenho técnico isométrico que conecta software e modelagem.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#22313C" stroke-width=".6"/></pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#111D27"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+    <linearGradient id="accent" x1="48" y1="0" x2="912" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#80EDC0"/><stop offset="1" stop-color="#263D43"/></linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="959" height="339" rx="18" fill="url(#bg)" stroke="#2C3B46"/>
+  <rect x="608" y="24" width="328" height="292" rx="12" fill="url(#grid)"/>
+  <path d="M48 42H912" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="48" y="89" fill="#80EDC0" font-size="15" letter-spacing="3">WR / DESENVOLVIMENTO DE SISTEMAS</text>
+    <text x="44" y="162" fill="#F0F6FC" font-size="54" font-weight="700">Do processo</text>
+    <text x="44" y="222" fill="#F0F6FC" font-size="54" font-weight="700">à interface.</text>
+    <text x="48" y="288" fill="#B6C5D1" font-size="19">Wender Lopes <tspan fill="#80EDC0">/</tspan> WrLopesxs</text>
+  </g>
+  <g stroke-linejoin="round">
+    <path d="M760 87 868 149 760 211 652 149Z" fill="#162C31" stroke="#80EDC0" stroke-width="2"/>
+    <path d="M652 149V225L760 287V211Z" fill="#112028" stroke="#4B9F8D" stroke-width="2"/>
+    <path d="M760 211 868 149V225L760 287Z" fill="#173239" stroke="#80EDC0" stroke-width="2"/>
+    <path d="M706 180V104L814 166V256M706 104 814 42M760 87V287M652 225 868 101" stroke="#80EDC0" stroke-opacity=".25" stroke-dasharray="5 7"/>
+    <path d="M636 244 744 306M636 237V251M744 299V313" stroke="#75929F"/>
+    <circle cx="760" cy="87" r="4" fill="#80EDC0"/>
+    <circle cx="868" cy="149" r="4" fill="#80EDC0"/>
+    <circle cx="760" cy="211" r="4" fill="#80EDC0"/>
+  </g>
+</svg>
